@@ -1,0 +1,17 @@
+{% extends '../layouts/default.html' %} 
+
+{% block title %}
+Task Manager
+{% endblock %}
+
+{% block scripts %}
+<!-- Factories -->
+<script src="/services/tasksFactory.js"></script>
+<script src="/controllers/tasksCtrl.js"></script>
+{% endblock %}
+
+{% include '../includes/messages.html' %}
+
+{% block content %}
+<div ng-view></div>
+{% endblock %}

@@ -1,0 +1,22 @@
+{% extends '../layouts/default.html' %} 
+
+{% block title %}
+Dashboard
+{% endblock %}
+
+{% block description %}
+Welcome, {{ user.name }}
+{% endblock %}
+
+{% block scripts %}
+<!-- Controllers -->
+<script src="/controllers/indexCtrl.js"></script>
+{% endblock %}
+
+{% include '../includes/messages.html' %}
+
+{% block content %}
+<div ng-view></div>
+<div><strong>Generated on Backend</strong></div>
+<p>{{ t({key: 'messages.test'}) }}</p>
+{% endblock %}

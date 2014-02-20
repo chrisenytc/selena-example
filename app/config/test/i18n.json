@@ -1,0 +1,9 @@
+{
+	"enabled": true,
+	"defaultLanguage": "en",
+	"languages": ["en", "sv"],
+	"path": "/locales",
+	"cookie": false,
+	"socket": false,
+	"serveClient": true
+}

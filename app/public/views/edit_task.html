@@ -1,0 +1,12 @@
+<form class="pure-form pure-form-stacked" ng-submit="update()">
+    <label for="title">Title</label>
+    <input id="title" type="text" class="pure-input-1" placeholder="Title" ng-model="task.title">
+    <label for="slug">Slug</label>
+    <input id="slug" type="text" class="pure-input-1" placeholder="Slug" ng-model="task.slug">
+    <label for="content">Content</label>
+    <textarea id="content" class="pure-input-1" ng-model="task.content">
+    </textarea>
+    <p>
+        <button type="submit" class="pure-button pure-button-secondary pure-input-1">Update Task</button>
+    </p>
+</form>
