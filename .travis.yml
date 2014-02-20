@@ -4,5 +4,4 @@ node_js:
 services:
 - mongodb
 before_script:
-  - npm install -g bower
   - npm install -g gulp

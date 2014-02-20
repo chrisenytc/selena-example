@@ -24,7 +24,6 @@
         "node": ">= 0.10.0"
     },
     "scripts": {
-        "postinstall": "bower install",
         "start": "NODE_ENV=production ./node_modules/forever/bin/forever -m 5 app.js",
         "startcluster": "NODE_ENV=production ./node_modules/forever/bin/forever -m 5 cluster.js",
         "test": "NODE_ENV=test gulp test"
