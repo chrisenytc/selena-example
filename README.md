@@ -1,6 +1,6 @@
 [![Selena.js](logo.png)](http://selenajs.enytc.com)
 
-#Selena.js [![Build Status](https://secure.travis-ci.org/enytc/selena.png?branch=master)](http://travis-ci.org/enytc/selena) [![Dependency Status](https://gemnasium.com/enytc/selena.png)](https://gemnasium.com/enytc/selena) [![GH version](https://badge-me.herokuapp.com/app/gh/enytc/selena.png)](http://badges.enytc.com/for/gh/enytc/selena) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/enytc/selena/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+#Selena.js [![Build Status](https://secure.travis-ci.org/chrisenytc/selena-example.png?branch=master)](http://travis-ci.org/chrisenytc/selena-example) [![Dependency Status](https://gemnasium.com/chrisenytc/selena-example.png)](https://gemnasium.com/chrisenytc/selena-example) [![GH version](https://badge-me.herokuapp.com/app/gh/chrisenytc/selena-example.png)](http://badges.enytc.com/for/gh/chrisenytc/selena-example) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/selena-example/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 > An wonderful full stack framework for node.js
 
